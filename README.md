@@ -1,6 +1,5 @@
 # AI Fingerprint Tracker
-made by: Sanchit Kaushik
-email: sk010us@gmail.com
+made by: Sanchit Kaushik | email: sk010us@gmail.com
 
 Discover, cluster, and visualize **visual fingerprints** of AI-generated images. This project uses frozen [CLIP](https://github.com/mlfoundations/open_clip) embeddings on the [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) dataset, then groups images into clusters that reveal distinct generation artifacts (spectral ringing, checkerboard upsampling, smooth gradients, and more).
 
