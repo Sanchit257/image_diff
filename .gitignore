@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.DS_Store
+.env
+.env.*
+
+# Generated / large artifacts (rebuild with pipeline)
+data/*
+!data/.gitkeep
+embeddings/
+outputs/
+
+# IDE
+.idea/
+.vscode/
